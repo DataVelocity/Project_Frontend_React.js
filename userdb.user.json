@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "64b043c852310fb956cf4b79"
+  },
+  "username": "admin",
+  "email": "admin@info.com",
+  "password": "admin123",
+  "role": "ROLE_ADMIN",
+  "_class": "com.model.Login"
+},
+{
+  "_id": {
+    "$oid": "64b0440352310fb956cf4b7b"
+  },
+  "username": "john",
+  "email": "john@info.com",
+  "password": "johnpeter",
+  "role": "ROLE_USER",
+  "_class": "com.model.Login"
+},
+{
+  "_id": {
+    "$oid": "64b06b0252310fb956cf4b7f"
+  },
+  "username": "Raaj",
+  "email": "singhamr954@gmail.com",
+  "password": "Professor@123",
+  "role": "ROLE_USER",
+  "_class": "com.model.Login"
+}]
